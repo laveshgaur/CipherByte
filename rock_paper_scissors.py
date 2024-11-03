@@ -60,4 +60,4 @@ def new():
     label3=Label(root,text="",bg="black",fg="white",font=("arial",30))
     label3.grid(row=7,column=1)
     root.mainloop()
-new()
+new() 
